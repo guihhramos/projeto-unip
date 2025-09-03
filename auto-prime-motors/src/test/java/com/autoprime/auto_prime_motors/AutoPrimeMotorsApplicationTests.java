@@ -1,4 +1,4 @@
-package com.example.auto_prime_motors;
+package com.autoprime.auto_prime_motors;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

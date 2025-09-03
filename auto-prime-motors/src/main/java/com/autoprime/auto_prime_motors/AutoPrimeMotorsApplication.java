@@ -1,4 +1,4 @@
-package com.example.auto_prime_motors;
+package com.autoprime.auto_prime_motors;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
