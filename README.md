@@ -17,7 +17,7 @@ O sistema é dividido em duas camadas principais: **Frontend** e **Backend**, qu
   - Filtro por setores  
   - Exclusão de funcionários  
 - **Tecnologias:**  
-  Desenvolvido **sem frameworks** (React, Angular, Vue) para aprofundar o domínio de **HTML5, CSS3 e JavaScript puro**.  
+  Desenvolvido para aprofundar o domínio de **HTML5, CSS3 e JavaScript puro**, contemdo Java e Spring Boot.  
   - Manipulação direta do DOM  
   - Interface **intuitiva, responsiva e moderna**  
 
