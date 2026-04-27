@@ -33,3 +33,4 @@ O sistema é dividido em duas camadas principais: **Frontend** e **Backend**, qu
 - **Tecnologias:**  
   - **Java + Spring Boot**  
   - **Injeção de dependência**  
+  - **React**  
